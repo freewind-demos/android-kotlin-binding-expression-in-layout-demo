@@ -1,7 +1,7 @@
-Android Kotlin View Binding Demo
+Android Kotlin Binding Expression in Layout Demo
 ===========================
 
-使用Android提供的[View Binding](https://developer.android.com/topic/libraries/view-binding)功能，可以代替手动`findViewById`
+使用Android提供的[Data binding expression](https://developer.android.com/topic/libraries/data-binding/expressions)功能，可以在UI组件中使用表达式来引用某个model的值（甚至嵌入一些简单逻辑）
 
 注意：
 1. 需要在`build.gradle`中开启`buildFeatures { viewBinding = true }`
