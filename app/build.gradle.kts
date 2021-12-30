@@ -13,7 +13,7 @@ android {
         versionName = "1.0"
     }
     buildFeatures {
-        viewBinding = true
+        dataBinding=true
     }
 }
 
