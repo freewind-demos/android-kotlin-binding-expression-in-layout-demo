@@ -5,7 +5,7 @@
 
         <variable
             name="user"
-            type="demos.User" />
+            type="com.example.demo.User" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"

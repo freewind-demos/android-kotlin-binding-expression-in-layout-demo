@@ -1,4 +1,4 @@
-package demos
+package com.example.demo
 
 class User(private val name: String) {
     fun getUpperName(): String {
